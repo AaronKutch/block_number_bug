@@ -1,3 +1,4 @@
+# paste these into a shell from `curl_container`
 
 curl -X POST -d '{"wallet": "0xBf660843528035a5A4921534E156a27e64B231fE", "amount": 100000000}' 'http://faucet:3333/request_neon'
 
